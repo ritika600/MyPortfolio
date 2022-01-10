@@ -28,6 +28,8 @@ function About() {
               </p>
               <p className="about__text p__color">
               When i am not coding, you will find me dancing or enjoying the music.
+              <br/>
+              Age : 19
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href="https://novoresume.com/editor/resume/224992a0-d355-11eb-a4aa-1b1d1e9867ed">
