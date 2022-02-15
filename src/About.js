@@ -27,12 +27,12 @@ function About() {
                 elgant and efficient code, whether it be HTML,CSS or React. 
               </p>
               <p className="about__text p__color">
-              When i am not coding, you will find me dancing or enjoying the music.
+              When i am not coding, you will find me dancing somewhere or enjoying the music.
               <br/>
               Age : 19
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="https://novoresume.com/editor/resume/224992a0-d355-11eb-a4aa-1b1d1e9867ed">
+                <a href="https://drive.google.com/file/d/1lImE2F8kk4jKcmyUBdBFAZ_McBaxlge6/view?usp=sharing" target="_blank">
                   <button className="about btn pointer">Download Cv</button>
                 </a>
                 <a href="https://www.linkedin.com/in/ritika-jawa-0007081a3/">
